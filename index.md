@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## CS7641 proposal
 
 You can use the [editor on GitHub](https://github.com/quanchao/machine_learning/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
